@@ -54,3 +54,4 @@ networks:
   default:
     # Dá um nome específico à rede padrão
     name: products_manager_net 
+    # Define a rede padrão como bridge
