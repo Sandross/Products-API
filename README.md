@@ -2,7 +2,7 @@
  API for product website, with all standard features
 # TrybeSmith
 
-<h1 align="center">Projeto Trybesmith Api</h1>
+<h1 align="center">Projeto Products Api</h1>
 <p align="center">Neste projeto, foi desenvolvida uma API para simular uma loja <strong>Typescript</strong>.</p>
 
 ---
